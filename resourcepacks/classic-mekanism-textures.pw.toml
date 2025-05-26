@@ -1,0 +1,13 @@
+name = "Classic Mekanism Textures"
+filename = "ClassicMekTexutres.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91629fe28a4fce09d85e8baaebee4ee6fbd91967"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5388826
+project-id = 1028778

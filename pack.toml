@@ -1,0 +1,13 @@
+name = "All the Mods 9 - To the Sky - atm9sky"
+author = "ATM Team"
+version = "1.1.7b"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "53849d1c55dc5f6c5bdb4fb9bf2be407d09ba459bc28a57a4445aaf394766f9a"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

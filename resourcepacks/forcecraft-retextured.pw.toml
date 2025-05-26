@@ -1,0 +1,13 @@
+name = "ForceCraft Retextured"
+filename = "ForceCraft_Retextured.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29ee466c89174962a82020870280d99c6e67c04a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5458326
+project-id = 1045040

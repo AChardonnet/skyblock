@@ -1,0 +1,13 @@
+name = "Integrated Crafting"
+filename = "IntegratedCrafting-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8a1281afb958865eedbae5a562b0f9200f2a7053"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6514967
+project-id = 287357

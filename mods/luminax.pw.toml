@@ -1,0 +1,13 @@
+name = "Luminax"
+filename = "luminax-1.3.0_forge_1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2aea2f6189a2c900d8f9c6186f0962afbe1b8da0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6548840
+project-id = 1165932
