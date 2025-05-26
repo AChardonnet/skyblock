@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vscode/settings.json"
+hash = "00be9050780d0d65da7a1affccfaa3b26b941d29b238038b5ad1f3d92e026070"
+
+[[files]]
 file = "complementary-unbound.pw.toml"
 hash = "0ecc8df3b8cc35aaae4ea7757417a8050e99657e683e7b7e05410aeedfc28d0b"
 metafile = true
@@ -2110,6 +2114,11 @@ hash = "e5df83a3dd1686106741d1d61da5869aed0537c2931a40234e1b3bd2d09e1971"
 metafile = true
 
 [[files]]
+file = "mods/carbon-config.pw.toml"
+hash = "c52bb9d0c2c20c74363d3889ccd391e28058f4ea2d22f032775598d5f63cdc93"
+metafile = true
+
+[[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "6f9ada4ae8dfcf29a7071e0eec596d8408e6e9091385db8fd1cddd0c2d89217a"
 metafile = true
@@ -2126,6 +2135,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "71a33fe41bead909b3e95643351ef8015def70d3cb083916469f492f66434b45"
+metafile = true
+
+[[files]]
+file = "mods/chunkpregenerator.pw.toml"
+hash = "b00ef25575c34bcb493300d62abcbd5ee53859186c729b9fd2d0c5588e2dd849"
 metafile = true
 
 [[files]]
