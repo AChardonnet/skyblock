@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".vscode/settings.json"
-hash = "00be9050780d0d65da7a1affccfaa3b26b941d29b238038b5ad1f3d92e026070"
-
-[[files]]
 file = "complementary-unbound.pw.toml"
 hash = "0ecc8df3b8cc35aaae4ea7757417a8050e99657e683e7b7e05410aeedfc28d0b"
 metafile = true
